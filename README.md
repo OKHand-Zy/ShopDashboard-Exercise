@@ -1,6 +1,6 @@
-# ChanceTix
-這是一個已抽選機制為主的售票平台網頁，目的是在台灣推廣一個真正公平而非搶票的一個新型的售票平台！！
-首要目標是創建出平台運作後續會有換票,連結歌手粉絲團網頁驗證會員及Web3票倦等...功能。
+# ShopDashboard-Exercise
+這是一個練習 React 前端的網頁。
+參考影片：https://www.youtube.com/playlist?list=PLwHsNjmBZ-MJnVNyiaVYHW_dDA5n3mbVk
 
 ## Dev Evn：
 - yarn v1.22.21
