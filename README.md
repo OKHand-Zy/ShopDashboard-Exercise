@@ -1,6 +1,7 @@
 # ShopDashboard-Exercise
 這是一個練習 React 前端的網頁。  
 參考影片：https://www.youtube.com/playlist?list=PLwHsNjmBZ-MJnVNyiaVYHW_dDA5n3mbVk
+![ShopDashboard-Exercise_WebUi](https://github.com/OKHand-Zy/ShopDashboard-Exercise/assets/109845859/b0a3f5f3-73e0-433b-833e-220a3564864d)
 
 ## Dev Evn：
 - yarn v1.22.21
