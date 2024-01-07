@@ -1,5 +1,5 @@
 # ShopDashboard-Exercise
-這是一個練習 React 前端的網頁。
+這是一個練習 React 前端的網頁。  
 參考影片：https://www.youtube.com/playlist?list=PLwHsNjmBZ-MJnVNyiaVYHW_dDA5n3mbVk
 
 ## Dev Evn：
